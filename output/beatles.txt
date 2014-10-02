@@ -1,0 +1,31 @@
+elit	in
+fusce	the
+cras	town
+dapibus	where
+ultricies	I
+mollis	was
+integer	born
+posuere	lived
+erat	a
+ante	man
+venenatis	who
+papibus	sailed
+posuereq	to
+velit	sea
+aliquet	and
+cursus	he
+magna	told
+sit		us
+ornare	of
+vulputate	his
+vehicula	life
+inceptos	on
+erat	a
+risus	yellow
+vestibulum	submarine
+
+LATIN:
+elit fusce cras dapibus ultricies mollis integer posuere erat ante venenatis papibus posuereq velit aliquet cursus magna sit ornare vulputate vehicula inceptos erat risus vestibulum 
+
+ENGLISH:
+in the town where I was born lived a man who sailed to sea and he told us of his life on a yellow submarine 

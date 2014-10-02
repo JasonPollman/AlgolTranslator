@@ -1,0 +1,31 @@
+elit	johnny's
+fusce	in
+cras	the
+dapibus	basement
+ultricies	mixing
+mollis	up
+integer	the
+posuere	medicine
+erat	I'm
+ante	on
+venenatis	the
+papibus	pavement
+posuereq	thinking
+velit	about
+aliquet	the
+cursus	government
+magna	the
+sit		man
+ornare	in
+vulputate	the
+vehicula	trench
+inceptos	coat
+erat	I'm
+risus	badge out
+vestibulum	laid off
+
+LATIN:
+elit fusce cras dapibus ultricies mollis integer posuere erat ante venenatis papibus posuereq velit aliquet cursus magna sit ornare vulputate vehicula inceptos erat risus vestibulum 
+
+ENGLISH:
+johnny's in the basement mixing up the medicine I'm on the pavement thinking about the government the man in the trench coat I'm badge out laid off 

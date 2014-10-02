@@ -1,0 +1,23 @@
+hola	hello
+hoy		today
+es		is
+lunes	monday
+que		what
+es		is
+tu		your
+nombre	name
+me		my
+nombre	name
+es		is
+jason	-?-
+este	this
+mes		month
+es		is
+abril	april
+		
+
+SPANISH:
+hola hoy es lunes que es tu nombre me nombre es jason este mes es abril  
+
+ENGLISH:
+hello today is monday what is your name my name is -?- this month is april  

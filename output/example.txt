@@ -1,0 +1,28 @@
+aenvih	because
+aenvih	because
+aenvih	because
+aeu		get
+aeu		get
+aeu		get
+aeuq	stew
+aenvih	because
+sdf		-?-
+asdf	-?-
+aeu		get
+asdf	-?-
+aeu		get
+aeuq	stew
+aenvih	because
+asdf	-?-
+aenvih	because
+aeu		get
+asdf	-?-
+aeu		get
+aeuq	stew
+asdf	-?-
+
+LATIN:
+aenvih aenvih aenvih aeu aeu aeu aeuq aenvih sdf asdf aeu asdf aeu aeuq aenvih asdf aenvih aeu asdf aeu aeuq asdf 
+
+ENGLISH:
+because because because get get get stew because -?- -?- get -?- get stew because -?- because get -?- get stew -?- 
